@@ -3,7 +3,7 @@
 - Easy [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/9.%20Palindrome%20Number.py)
 - Easy [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/13.%20Roman%20To%20Integer.py)
 - Easy [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/69.%20Sqrt(x).py)
-- Medium [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/1717.%20Maximum%20Score%20From%20Removing%20Substrings.py) 
+- Medium [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/1717.%20Maximum%20Score%20From%20Removing%20Substrings.py)
 
 ### 字符串處理 (String Manipulation)
 - Easy [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/14.%20Longest%20Common%20Prefix.py)
