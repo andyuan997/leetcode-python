@@ -30,3 +30,8 @@ class Solution:
                 return False
         
         return True
+        
+    from collections import Counter
+    # 優化
+    def isAnagram(s: str, t: str) -> bool:
+        return Counter(s) == Counter(t)
