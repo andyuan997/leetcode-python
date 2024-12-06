@@ -1,3 +1,7 @@
+## 優質學習資源
+  - 動畫圖解演算法：https://www.hello-algo.com/zh-hant/
+  - 各語言設計模式參考：https://refactoringguru.cn/design-patterns/examples?_gl=1*g4bn8v*_ga*MTcyODk4Nzk2Ni4xNzEzNDIwNDE1*_ga_SR8Y3GYQYC*MTczMzM2NTQ4Mi4yLjAuMTczMzM2NTQ4Mi42MC4wLjA.
+## 刷題紀錄
 ### 數學運算與數字操作 (Math Operations and Number Manipulation)
 - Easy [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/7.%20Reverse%20Integer.py)
 - Easy [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [[Python]](https://github.com/andyuan997/leetcode-python/blob/main/Solution/9.%20Palindrome%20Number.py)
