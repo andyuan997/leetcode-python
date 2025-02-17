@@ -18,6 +18,14 @@ class Solution(object):
         """
         return bin(n).count('1')
 
+    # 二進制操作
+    def hammingWeight_(self, n):
+        count = 0
+        while n:
+            n = n & (n - 1)  # 將 n 的最後一個 1 移除
+            count += 1
+        return count
+
 
 solution = Solution()
 
