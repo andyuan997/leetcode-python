@@ -8,7 +8,8 @@ set bits in its binary representation (also known as the Hamming weight).
 """
 """
 2025/2/17
-時間複雜度約為 O(log n)，因為 n 轉成二進位後的長度是 log n，計算 1 的數量也是 log n 的長度。
+方法一: 暴力法，時間複雜度約為 O(log n)，因為 n 轉成二進位後的長度是 log n，計算 1 的數量也是 log n 的長度。
+方法二: 二進制，時間複雜度約為 O(k)，k為1的個數。
 """
 class Solution(object):
     def hammingWeight(self, n):
